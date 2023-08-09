@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sowmya sree</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/fetch/w300-preview/a0/a045f53ad7bf3442d399d60ecc9a6649.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowmyasree33&label=Profile%20views&color=0e75b6&style=flat" alt="sowmyasree33" /> </p>
 
