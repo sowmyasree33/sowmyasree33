@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS(Amazon-webservices)**
 
-- 💬 Ask me about **Html,Css,Bootstrap,JS,SQL,Reactjs**
+- 💬 Ask me about **SQL,DEVOPS,Kubernetes**
 
 - 📫 How to reach me **bsowmyasree2@gmail.com**
 
