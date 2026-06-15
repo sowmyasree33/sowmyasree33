@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/sree32003" target="blank"><img src="https://img.shields.io/twitter/follow/sree32003?logo=twitter&style=for-the-badge" alt="sree32003" /></a> </p>
 
-- 🌱 I’m currently learning **AWS(Amazon-webservices)**
+- 🌱 I'm currently deepening my knowledge of **AWS, Kubernetes, and DevOps practices**
 
-- 💬 Ask me about **AWS,DEVOPS,Kubernetes,Terraform**
+- 💬 Ask me about **AWS, DevOps, Kubernetes, Terraform, and Cloud Infrastructure**
 
 - 📫 How to reach me **bsowmyasree2@gmail.com**
 
