@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sowmya sree</h1>
-<h3 align="center">From Testing to Cloud Engineering | AWS • Terraform • Docker • CI/CD</h3>
+<h3 align="center">AWS • Terraform • Docker • CI/CD</h3>
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/fetch/w300-preview/a0/a045f53ad7bf3442d399d60ecc9a6649.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowmyasree33&label=Profile%20views&color=0e75b6&style=flat" alt="sowmyasree33" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sree32003" target="blank"><img src="https://img.shields.io/twitter/follow/sree32003?logo=twitter&style=for-the-badge" alt="sree32003" /></a> </p>
 
-- 🌱 I'm currently deepening my knowledge of **AWS, Kubernetes, and DevOps practices**
+- 🌱 I'm currently deepening my knowledge on **AWS, Kubernetes, and DevOps practices**
 
 - 💬 Ask me about **AWS, DevOps, Kubernetes, Terraform, and Cloud Infrastructure**
 
