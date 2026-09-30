@@ -1,29 +1,192 @@
-<h1 align="center">Hi 👋, I'm Sowmya sree</h1>
-<h3 align="center">AWS • Terraform • Docker • CI/CD</h3>
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/fetch/w300-preview/a0/a045f53ad7bf3442d399d60ecc9a6649.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sowmyasree33&label=Profile%20views&color=0e75b6&style=flat" alt="sowmyasree33" /> </p>
+# Hi 👋, I'm Sowmya Sree
 
-<p align="left"> <a href="https://twitter.com/sree32003" target="blank"><img src="https://img.shields.io/twitter/follow/sree32003?logo=twitter&style=for-the-badge" alt="sree32003" /></a> </p>
+### Cloud & DevOps | AWS | Terraform | Docker | CI/CD
 
-- 🌱 I'm currently deepening my knowledge on **AWS, Kubernetes, and DevOps practices**
+I'm a Cloud & DevOps professional focused on building and automating cloud infrastructure, CI/CD pipelines, containerized applications, and AWS deployment workflows.
 
-- 💬 Ask me about **AWS, DevOps, Kubernetes, Terraform, and Cloud Infrastructure**
+I enjoy working with **AWS, Terraform, Docker, GitHub Actions, Git, Linux, and CI/CD automation**, and I'm currently deepening my skills in cloud infrastructure, container orchestration, and DevOps practices.
 
-- 📫 How to reach me **bsowmyasree2@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/@s_o_w_m_y_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@s_o_w_m_y_a" height="30" width="40" /></a>
-<a href="https://twitter.com/sree32003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sree32003" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/b_sowmya_sree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="b_sowmya_sree" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sowmya903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sowmya903" height="30" width="40" /></a>
-</p>
+## 🚀 Cloud & DevOps Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  </p>
+### 1. End-to-End Java CI/CD, Containerization & AWS Deployment
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sowmyasree33&show_icons=true&locale=en&layout=compact" alt="sowmyasree33" /></p>
+**Java 17 | Maven | GitHub | GitHub Actions | Docker | Amazon ECR | Amazon ECS/Fargate | IAM/OIDC | Terraform**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sowmyasree33&show_icons=true&locale=en" alt="sowmyasree33" /></p>
+Built an end-to-end deployment workflow for a Java-based application, covering application build, containerization, image management, and AWS deployment.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sowmyasree33&" alt="sowmyasree33" /></p>
+**Architecture**
+
+```text
+Developer
+   ↓
+GitHub
+   ↓
+GitHub Actions
+   ↓
+Maven
+   ↓
+JAR
+   ↓
+Docker Image
+   ↓
+Amazon ECR
+   ↓
+Amazon ECS / Fargate
+   ↓
+Java Application
+```
+
+**Key implementation:**
+
+* Worked on Java application and generated the JAR artifact using **Maven**
+* Created a **Docker image** containing the Java application and runtime.
+* Automated build and deployment using **GitHub Actions**.
+* Pushed container images to **Amazon ECR**.
+* Deployed the application using **Amazon ECS with Fargate**.
+* Configured ECS cluster, task definition, service, networking, and IAM roles.
+* Implemented **GitHub OIDC with AWS IAM** to avoid using long-lived AWS access keys in GitHub Actions.
+* Used **Terraform** to manage AWS infrastructure and imported existing AWS resources into Terraform state.
+
+**What I learned:**
+
+CI/CD automation, Docker containerization, ECR, ECS/Fargate, IAM/OIDC authentication, AWS deployment workflows, and Terraform infrastructure management.
+
+---
+
+### 2. AWS Infrastructure Automation with Terraform
+
+**Terraform | AWS EC2 | VPC | S3 | IAM | Security Groups | ALB**
+
+Built an AWS infrastructure project using **Terraform Infrastructure as Code** to replace manual AWS console-based provisioning with repeatable configuration.
+
+**Architecture**
+
+```text
+Terraform
+   ↓
+AWS Infrastructure
+   ├── VPC
+   ├── Subnets
+   ├── Security Groups
+   ├── EC2
+   ├── S3
+   └── Application Load Balancer
+```
+
+**Key implementation:**
+
+* Defined AWS infrastructure using **Terraform resource blocks**.
+* Configured AWS networking and security components.
+* Provisioned resources such as **EC2, S3, VPC, Security Groups, and ALB**.
+* Used Terraform workflow:
+
+```text
+terraform init
+       ↓
+terraform plan
+       ↓
+terraform apply
+```
+
+* Worked with **Terraform state** to track managed infrastructure.
+* Used resource dependencies to control infrastructure creation order.
+* Used `terraform plan` to identify differences between Terraform configuration and existing infrastructure.
+
+**What I learned:**
+
+Infrastructure as Code, Terraform state management, resource dependencies, infrastructure lifecycle management, and migration of existing AWS infrastructure into Terraform.
+
+---
+
+### 3. AWS CI/CD Pipeline Implementation
+
+**AWS CodePipeline | AWS CodeBuild | AWS CodeDeploy | GitHub | EC2**
+
+Implemented a CI/CD pipeline using AWS-managed DevOps services to automate application build and deployment.
+
+**Pipeline**
+
+```text
+GitHub
+   ↓
+AWS CodePipeline
+   ↓
+AWS CodeBuild
+   ↓
+Build / Package
+   ↓
+AWS CodeDeploy
+   ↓
+EC2
+   ↓
+Application
+```
+
+**Key implementation:**
+
+* Connected the source repository with **AWS CodePipeline**.
+* Used **AWS CodeBuild** for the application build process.
+* Configured build instructions using **buildspec.yml**.
+* Used IAM service roles to allow AWS services to perform required operations.
+* Used **AWS CodeDeploy** for application deployment to EC2.
+* Monitored pipeline executions and investigated build/deployment failures through logs and AWS configuration.
+* Worked with environment/configuration values without hardcoding sensitive information into build configuration.
+
+**What I learned:**
+
+AWS-managed CI/CD, CodePipeline orchestration, CodeBuild, CodeDeploy, build specifications, IAM roles, deployment automation, and CI/CD troubleshooting.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Cloud
+
+`AWS` `EC2` `VPC` `IAM` `S3` `ECR` `ECS/Fargate` `ALB`
+
+### DevOps
+
+`CI/CD` `GitHub Actions` `Docker` `Terraform` `Linux` `Shell Scripting`
+
+### Version Control
+
+`Git` `GitHub`
+
+### Infrastructure as Code
+
+`Terraform`
+
+### Containerization
+
+`Docker` `Amazon ECR` `Amazon ECS/Fargate`
+
+### Fundamentals
+
+`Kubernetes` `CloudWatch` `AWS CLI`
+
+---
+
+## 📌 What I'm Currently Focusing On
+
+* ☁️ AWS Cloud Infrastructure
+* 🔄 CI/CD Automation
+* 🐳 Docker & Containerization
+* 🏗️ Terraform & Infrastructure as Code
+* 🔐 IAM & Secure Cloud Access
+* ☸️ Kubernetes Fundamentals
+* 🐧 Linux & Shell Scripting
+* 🔧 DevOps Troubleshooting
+
+---
+
+## 🤝 Connect With Me
+
+* 💼 LinkedIn: www.linkedin.com/in/sowmyasreebacha
+* 📧 Email: [bsowmyasree2@gmail.com](mailto:bsowmyasree2@gmail.com)
+* 💻 GitHub: [sowmyasree33](https://github.com/sowmyasree33)
+
+---
+
+### ☁️ Building. Automating. Learning. Improving.
